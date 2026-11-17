@@ -1,0 +1,14 @@
+:root {
+  color-scheme: light;
+  --color-forest: #284737;
+  --color-forest-soft: #3c5849;
+  --color-terracotta: #c16c49;
+  --color-cream: #f7f3ea;
+  --color-sand-light: #eee9dd;
+  --color-sand: #dcd4bc;
+  --color-olive: #72866a;
+  --font-display: "dm-serif-display", Georgia, serif;
+  --font-display-text: "dm-serif-text", Georgia, serif;
+  --font-body: "dm-sans", Arial, sans-serif;
+  --content-max: 1232px;
+}
