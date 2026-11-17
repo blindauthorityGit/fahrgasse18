@@ -316,9 +316,9 @@ img { display: block; }
   .contact-map-label { padding: 10px 13px; }
   .contact-map-label span { font-size: 11px; }
   .contact-map-route { top: 14px; left: 14px; padding: 10px 12px; font-size: 10px; }
-  .seeing-hero { min-height: 270px; grid-template-columns: .85fr 1.15fr; gap: 12px; padding-block: 18px 30px; }
-  .seeing-hero-art { height: 230px; }
-  .seeing-hero h1 { font-size: clamp(29px, 7vw, 50px); white-space: normal; }
+  .seeing-hero { min-height: 0; grid-template-columns: 1fr; justify-items: center; gap: 0; padding-block: 30px 42px; }
+  .seeing-hero-art { display: none; }
+  .seeing-hero h1 { font-size: clamp(42px, 12vw, 64px); text-align: center; white-space: normal; }
   .seeing-product-inner { width: min(calc(100% - 40px), 560px); min-height: 0; grid-template-columns: 1fr; gap: 34px; padding-block: 58px 68px; }
   .seeing-product-row .seeing-product-image, .seeing-product-row.is-reversed .seeing-product-image { order: 1; }
   .seeing-product-row .seeing-product-copy, .seeing-product-row.is-reversed .seeing-product-copy { order: 2; }
