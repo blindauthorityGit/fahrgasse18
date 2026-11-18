@@ -6,8 +6,8 @@ import { SiteHeader } from "@/components/site-header";
 import { pageMetadata } from "@/lib/seo";
 
 export const metadata = pageMetadata(
-  "Nachhaltige Taschen & Accessoires in Dreieich",
-  "Entdecke besondere Taschen, Rucksäcke, Regenschirme, Schmuck und Upcycling-Produkte bei FAHRGASSE 18 in Dreieichenhain.",
+  "Taschen & Accessoires in Dreieich",
+  "Entdecke Taschen, Rucksäcke, Regenschirme und Schmuck bei FAHRGASSE 18 in Dreieichenhain.",
   "/sortiment/sehen-fuehlen",
 );
 

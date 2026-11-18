@@ -20,9 +20,9 @@ const stories = [
     image: "/images/sortiment-fairafric.jpg",
     alt: "Bunte Schokoladentafeln von fairafric",
     paragraphs: [
-      "Das Unternehmen ist aus einer Leidenschaft entstanden, die Wertschöpfungskette in der Schokoladenindustrie zu verändern. Seit 2016 wird zusammen mit lokalen Partner*innen die erste Schokolade aus Westafrika produziert. Durch die Verlagerung der gesamten Wertschöpfungskette in das Kakaoanbauland wird das lokale Einkommen pro Tonne Kakao vervierfacht: Statt nur den Kakaopreis zu zahlen, unterstützt fairafric den Aufbau lokaler wirtschaftlicher Strukturen und schafft mittelständische Jobs in der Weiterverarbeitung.",
-      "Damit hebt fairafric den fairen Handel aufs nächste Level und schafft für Menschen im Kakaoanbauland Ghana einen Weg in den Mittelstand. Faire Preise, Arbeitsbedingungen und absolute Transparenz werden durch den Weltladen-Dachverband gewährleistet und alle zwei Jahre bei einem externen Audit überprüft.",
-      "Für uns ist das echte „Entwicklungshilfe“ und wir wollen fairafric dabei unterstützen. Daher bieten wir sieben verschiedene Schokoladen mit unterschiedlichen Schokoladenanteilen in unserem Lädchen an. Einfach vorbei kommen und probieren!",
+      "Seit 2016 stellt fairafric gemeinsam mit lokalen Partner*innen Schokolade in Ghana her. Die Besonderheit: Der Kakao wird dort nicht nur angebaut, sondern auch vor Ort zur fertigen Tafel verarbeitet.",
+      "fairafric zufolge fällt das lokale Einkommen pro Tonne Kakao dadurch viermal so hoch aus wie beim Verkauf der Bohnen allein. Vor Ort entstehen außerdem Arbeitsplätze in der Weiterverarbeitung. Für die Prüfung von Preisen und Arbeitsbedingungen arbeitet das Unternehmen nach eigenen Angaben mit dem Weltladen-Dachverband; alle zwei Jahre findet zusätzlich ein externes Audit statt.",
+      "Uns gefällt, dass Anbau und Weiterverarbeitung hier zusammenkommen. Deshalb haben wir sieben Sorten mit unterschiedlichen Kakaoanteilen im Laden. Komm vorbei und probier dich durch!",
     ],
   },
   {
@@ -45,8 +45,7 @@ const stories = [
     alt: "Illustration einer dampfenden Tasse Kaffee mit Schokolade und Gewürzen",
     fit: "contain",
     paragraphs: [
-      "Der Kaffee ist fair gehandelt und stammt aus den besten Anbaugebieten der Welt. Wir haben diverse Spezialitäten in Bioqualität im Sortiment.",
-      "In unserer Espressobar verarbeiten wir den Barista Bio Espresso, der sich durch seinen ausgeprägten Geschmack nach Zartbitterschokolade und einen geringen Säureanteil auszeichnet.",
+      "Bei uns findest du verschiedene Kaffeespezialitäten. In unserer Espressobar servieren wir einen Espresso mit Noten von Zartbitterschokolade und milder Säure.",
     ],
   },
   {
@@ -55,8 +54,8 @@ const stories = [
     image: "/images/sortiment-berglandkraeuter.jpg",
     alt: "Kräutertees und Gewürzmischungen von Berglandkräuter",
     paragraphs: [
-      "Die Kräutertees und -mischungen stammen fast ausschließlich aus biologischem Anbau in Hessen. Deshalb sucht man grünen und schwarzen Tee vergeblich.",
-      "Wir haben jetzt auch eine kleine Auswahl an Gewürzmischungen von Berglandkräuter im Sortiment.",
+      "Bei uns findest du Kräutertees und -mischungen von Berglandkräuter. Grünen und schwarzen Tee führen wir nicht.",
+      "Ergänzt wird die Auswahl durch ausgewählte Gewürzmischungen.",
     ],
     highlight: "Unser Highlight hier – Kräuter der Provinz!",
   },

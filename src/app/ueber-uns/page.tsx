@@ -6,8 +6,8 @@ import { SiteHeader } from "@/components/site-header";
 import { pageMetadata } from "@/lib/seo";
 
 export const metadata = pageMetadata(
-  "Über uns – nachhaltig schenken in Dreieich",
-  "Lerne FAHRGASSE 18 kennen: ein persönlicher Laden in Dreieichenhain mit sorgfältig ausgewählten, nachhaltigen Geschenken und Lieblingsstücken.",
+  "Über uns | FAHRGASSE 18 in Dreieichenhain",
+  "Lerne den Geschenkeladen FAHRGASSE 18 kennen und erfahre mehr über unser Sortiment, unseren Laden in Dreieichenhain und unsere Geschichte.",
   "/ueber-uns",
 );
 

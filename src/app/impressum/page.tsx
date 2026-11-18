@@ -6,7 +6,7 @@ import { pageMetadata } from "@/lib/seo";
 
 export const metadata = pageMetadata(
   "Impressum",
-  "Impressum und Anbieterkennzeichnung der FAHRGASSE 18 Nachhaltigkeitsgesellschaft mbh in Dreieich-Dreieichenhain.",
+  "Impressum und Anbieterinformationen des Geschenkeladens FAHRGASSE 18 in Dreieich-Dreieichenhain.",
   "/impressum",
 );
 

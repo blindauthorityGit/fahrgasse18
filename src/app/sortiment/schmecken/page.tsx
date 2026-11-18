@@ -7,7 +7,7 @@ import { pageMetadata } from "@/lib/seo";
 
 export const metadata = pageMetadata(
   "Kaffee, Tee & Schokolade in Dreieich",
-  "Entdecke fair gehandelte Kaffees, unsere Espressobar, Bio-Kräutertees, Schokolade und feine Spezialitäten bei FAHRGASSE 18.",
+  "Entdecke Kaffee, Espresso aus unserer Espressobar, Kräutertee, Schokolade, Gewürze und Pfälzer Latwerg bei FAHRGASSE 18 in Dreieichenhain.",
   "/sortiment/schmecken",
 );
 

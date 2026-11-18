@@ -45,8 +45,8 @@ const stories: ProductStory[] = [
   {
     name: "Redoggo",
     paragraphs: [
-      "Redoggo ist mehr als nur eine Marke für Hundespielzeug und Accessoires. Jedes Produkt wird mit Bedacht entwickelt, um sowohl Hunden als auch der Umwelt gerecht zu werden.",
-      "Die Spielzeuge bestehen aus upgecycelten Autoteilen wie Airbags und Sitzgurten. Diese robusten, chemisch geprüften Materialien reduzieren Abfall und bieten nachhaltige Lösungen für Hunde.",
+      "Redoggo macht Spielzeug und Accessoires für Hunde. Die Spielzeuge entstehen aus wiederverwendeten Materialien aus der Automobilindustrie, darunter Airbags und Sicherheitsgurte.",
+      "Die ungewöhnlichen Materialien machen jedes Stück zu einem besonderen Begleiter für den Alltag mit Hund.",
     ],
     image: "/images/sortiment-sehen-illustration.png",
     alt: "Illustration für das Sortiment Sehen und Fühlen",
@@ -56,18 +56,17 @@ const stories: ProductStory[] = [
     name: "Feuerwear",
     subtitle: "Unikate aus Feuerwehrschläuchen",
     paragraphs: [
-      "Die Brüder Martin und Robert entwerfen nachhaltige Taschen und Accessoires durch Upcycling von Feuerwehrschläuchen. Nicht nur bei der Materialverwendung, sondern bei der gesamten Produktion achten sie auf Nachhaltigkeit.",
-      "Die Feuerwehrschläuche wurden im Einsatz durch Schlamm und Geröll gezogen, haben Feuer und Hitze getrotzt und viele tausend Kubikmeter Wasser transportiert. Der Feuerwehrschlauch erhält so individuelle Spuren, die jedes Teil einzigartig macht. Feuerwear-Produkte gibt es in den Schlauchfarben Rot, Weiß und Schwarz.",
+      "Die Brüder Martin und Robert entwerfen Taschen und Accessoires aus gebrauchten Feuerwehrschläuchen.",
+      "Die Schläuche haben im Einsatz Schlamm und Geröll erlebt, Feuer und Hitze getrotzt und unzählige Liter Wasser transportiert. Ihre Gebrauchsspuren machen jedes Stück einzigartig. Die Produkte gibt es in Rot, Weiß und Schwarz.",
     ],
     image: "/images/sortiment-feuerwear.jpg",
     alt: "Tasche aus einem roten Feuerwehrschlauch",
   },
   {
     name: "Original Duckhead",
-    subtitle: "Auf der Suche nach nachhaltigen Regenschirmen, sind wir auf Original Duckhead gestoßen.",
+    subtitle: "Farbenfrohe Schirme für graue Regentage.",
     paragraphs: [
-      "Nun, wenn sich einer mit Regen auskennt, dann sind es die Briten. Daher war es naheliegend, auch hier den passenden Regenschirm zu finden. Für die Bespannung werden recycelte Plastikflaschen verwendet. Pro Schirm sind das immerhin 9 Stück. Hinzu kommt der lustige Griff aus Birkenholz in Form eines Entenkopfes – Duckhead eben!",
-      "Die Schirme sind handgefertigt und für eine lange Lebensdauer ausgelegt. Da Regenwetter in der Regel trist ist, haben wir uns die farbenfrohen Ausführungen ausgesucht.",
+      "Der Entenkopf-Griff aus Birkenholz gibt den Schirmen ihren Namen. Dazu kommen handgefertigte Details und fröhliche Farben, die auch an grauen Regentagen gute Laune machen.",
     ],
     image: "/images/sortiment-sehen-schirme.jpg",
     alt: "Farbige Regenschirme und Entenkopf-Griffe",
@@ -76,8 +75,8 @@ const stories: ProductStory[] = [
     name: "Eydl",
     subtitle: "Individueller Holzschmuck",
     paragraphs: [
-      "EYDL steht für die jeweils ersten Buchstaben des Ausspruchs „Energize Your Daily Life!“ EYDL verkörpert Ausgeglichenheit, Wohlgefühl, Individualität & Ästhetik. Spirituelle Linien & Formen geben Kraft.",
-      "Der Schmuck von Eydl wird in Österreich handgemacht und wird aus heimischen Hölzern gefertigt. Die Natürlichkeit der Rohstoffe gepaart mit ihren individuellen Eigenschaften erschaffen ein rund um harmonisches Produkt.",
+      "EYDL steht für „Energize Your Daily Life“ und verbindet klare Formen mit individuellen Designs.",
+      "Der Schmuck wird in Österreich von Hand aus heimischen Hölzern gefertigt. Filigrane Linien und die natürliche Maserung machen jedes Stück zu einem besonderen Begleiter.",
     ],
     image: "/images/sortiment-eydl.jpg",
     alt: "Handgefertigter Schmuck aus Holz mit filigranen Mustern",

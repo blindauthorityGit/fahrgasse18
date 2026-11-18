@@ -6,8 +6,8 @@ import { SiteHeader } from "@/components/site-header";
 import { pageMetadata } from "@/lib/seo";
 
 export const metadata = pageMetadata(
-  "Naturkosmetik & Seifen in Dreieich",
-  "Finde plastikfreie Seifen, vegane Pflegeprodukte, Dusch-Fluffs und besondere Naturkosmetik bei FAHRGASSE 18 in Dreieichenhain.",
+  "Seifen & Pflegeprodukte in Dreieich",
+  "Entdecke Dusch- und Haarseifen, Deocreme und ausgewählte Pflegeprodukte bei FAHRGASSE 18 in Dreieichenhain.",
   "/sortiment/riechen",
 );
 

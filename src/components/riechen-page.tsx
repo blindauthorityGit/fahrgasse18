@@ -7,10 +7,10 @@ const stories = [
   {
     name: "Hopery",
     image: "/images/sortiment-hopery.jpg",
-    alt: "Nachhaltige Seifendose und Pflegeprodukte von Hopery",
+    alt: "Seifendose und Pflegeprodukte von Hopery",
     paragraphs: [
-      "HOPERY ist ein Social Business mit dem Hintergrund einer 30-jährigen Familientradition im Bereich der Naturkosmetik. Es werden ausschließlich natürliche Rohstoffe verwendet, palmölfrei und ohne Tierversuche.",
-      "Außerdem gibt es bei uns auch die passenden Seifendosen aus nachwachsendem Bambus und Mais. Mit jedem gekauften HOPERY Produkt werden automatisch 20 Cent an Orangutan Outreach gespendet.",
+      "HOPERY blickt auf eine 30-jährige Familientradition im Bereich Kosmetik zurück. Bei uns findest du Pflegeprodukte und passende Seifendosen aus Bambus und Mais.",
+      "Laut Hersteller gehen mit jedem verkauften HOPERY Produkt 20 Cent an Orangutan Outreach.",
     ],
   },
   {
@@ -18,8 +18,8 @@ const stories = [
     image: "/images/sortiment-kleine-auszeit.jpg",
     alt: "Handgemachte Dusch- und Haarseifen von Kleine Auszeit",
     paragraphs: [
-      "Die Dusch- und Haarseifen von Kleine Auszeit stammen aus der Manufaktur von Nicole Hensel. Die Produkte werden komplett plastikfrei hergestellt und verpackt. Sie sind vegan und enthalten weder Palmöl noch Silikone und Sulfate.",
-      "Sehr beliebt ist auch die Deocreme auf Natronbasis. Wer also echte Handarbeit zu schätzen weiß und sich nicht länger fragen will, was in den Pflegeprodukten drin ist, wird hier sicher fündig.",
+      "Die Dusch- und Haarseifen von Kleine Auszeit entstehen in der Manufaktur von Nicole Hensel.",
+      "Dazu gibt es eine Deocreme auf Natronbasis – handgemachte Pflege für eine kleine Auszeit im Alltag.",
     ],
   },
   {
@@ -28,7 +28,7 @@ const stories = [
     alt: "Illustration von Seife, Pflegeöl und Kräutern",
     fit: "contain",
     paragraphs: [
-      "Die Mission von puremetics ist es, hochwertige, plastikfreie und vegane Kosmetikprodukte zu schaffen. Bei uns besonders beliebt sind die 3in1 Dusch-Fluffs und die kosmetischen Öle.",
+      "Bei puremetics findest du Dusch-Fluffs und kosmetische Öle. Besonders beliebt sind bei uns die 3in1 Dusch-Fluffs.",
     ],
   },
 ];

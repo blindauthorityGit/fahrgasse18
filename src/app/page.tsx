@@ -8,8 +8,8 @@ import { SiteHeader } from "@/components/site-header";
 import { pageMetadata } from "@/lib/seo";
 
 export const metadata = pageMetadata(
-  "Nachhaltige Geschenke in Dreieich",
-  "Entdecke besondere, nachhaltige Geschenke, Taschen, Naturkosmetik und feine Genussideen bei FAHRGASSE 18 in Dreieichenhain.",
+  "Geschenkeladen in Dreieich-Dreieichenhain",
+  "Entdecke Taschen, Accessoires, Seifen, Pflegeprodukte und feine Genussideen bei FAHRGASSE 18 in Dreieichenhain.",
   "/",
 );
 
